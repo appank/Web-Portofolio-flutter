@@ -259,11 +259,11 @@ class _WebLayoutState extends State<WebLayout> {
                           ElevatedButton.icon(
                             icon: Icon(
                               Icons.edit_document,
-                              size: 30,
+                              size: 25,
                             ),
                             onPressed: () {
                               openExternalLink(
-                                  'https://drive.google.com/file/d/14rNy4Mh2xO-tAjmQXP4PSxsWMocE5NPr/view');
+                                  'https://drive.google.com/file/d/1nohzR1eeWj9Lb5yrzk__6tqoiqLBrhdw/view');
                             },
                             label: Text('Download CV'),
                             style: ElevatedButton.styleFrom(
